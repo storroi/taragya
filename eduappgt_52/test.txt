@@ -1,0 +1,2 @@
+{"code_username":"qwerty","purchase_code":"erververv","database":"eduappgt","hostname":"localhost","dbusername":"srikalyan","dbpassword":"password","system_name":"School","system_title":"Management","language":"english","currency":"Rupee","theme":"blue","admin":"admin","adminpass":"admin"}outside
+inside
